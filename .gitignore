@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+build/
+build_fixed/
+build_latest/
+dist/
+dist_fixed/
+dist_latest/
+
+vendor/
+
+.dbg/
+*.log
